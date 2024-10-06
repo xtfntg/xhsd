@@ -1,0 +1,113 @@
+[
+  {
+    "title": "书店外立面",
+    "mainImage": "/img/AluminumVeneer00.jpg",
+    "options": [
+      "/img/AluminumVeneer01.jpg",
+      "/img/AluminumVeneer02.jpg",
+      "/img/AluminumVeneer03.jpg"
+    ],
+    "details": [
+      "/img/AluminumVeneer04.jpg",
+      "/img/AluminumVeneer05.jpg",
+      "/img/AluminumVeneer06.jpg",
+      "/img/AluminumVeneer07.jpg"
+    ]
+  },
+  {
+    "title": "冲孔铝板",
+    "mainImage": "/img/PerforatedAluminumSheet00.jpg",
+    "options": [
+      "/img/PerforatedAluminumSheet01.jpg",
+      "/img/PerforatedAluminumSheet02.jpg",
+      "/img/PerforatedAluminumSheet03.jpg"
+    ],
+    "details": [
+      "/img/PerforatedAluminumSheet04.jpg",
+      "/img/PerforatedAluminumSheet05.jpg",
+      "/img/PerforatedAluminumSheet06.jpg",
+      "/img/PerforatedAluminumSheet07.jpg"
+    ]
+  },
+  {
+    "title": "橡木色地板",
+    "mainImage": "/img/OakFlooring00.jpg",
+    "options": [
+      "/img/OakFlooring01.jpg",
+      "/img/OakFlooring02.jpg",
+      "/img/OakFlooring03.jpg"
+    ],
+    "details": [
+      "/img/OakFlooring04.jpg",
+      "/img/OakFlooring05.jpg",
+      "/img/OakFlooring06.jpg"
+    ]
+  },
+  {
+    "title": "绿地胶",
+    "mainImage": "/img/FloorRubber00.jpg",
+    "options": [
+      "/img/FloorRubber01.jpg",
+      "/img/FloorRubber02.jpg",
+      "/img/FloorRubber03.jpg"
+    ],
+    "details": [
+      "/img/FloorRubber06.jpg",
+      "/img/FloorRubber07.jpg",
+      "/img/FloorRubber08.jpg",
+      "/img/FloorRubber09.jpg"
+    ]
+  },
+
+  {
+    "title": "前台石材",
+    "mainImage": "/img/Stone00.jpg",
+    "options": ["/img/Stone01.jpg", "/img/Stone02.jpg", "/img/Stone03.jpg"],
+    "details": [
+      "/img/Stone04.jpg",
+      "/img/Stone05.jpg",
+      "/img/Stone06.jpg",
+      "/img/Stone07.jpg"
+    ]
+  },
+  {
+    "title": "镜面不锈钢",
+    "mainImage": "/img/MirrorStainlessSteel00.jpg",
+    "options": ["/img/MirrorStainlessSteel01.jpg"],
+    "details": [
+      "/img/MirrorStainlessSteel04.jpg",
+      "/img/MirrorStainlessSteel05.jpg",
+      "/img/MirrorStainlessSteel06.jpg",
+      "/img/MirrorStainlessSteel07.jpg"
+    ]
+  },
+  {
+    "title": "防盗门",
+    "mainImage": "/img/SecurityDoor00.jpg",
+    "options": [
+      "/img/SecurityDoor01.jpg",
+      "/img/SecurityDoor02.jpg",
+      "/img/SecurityDoor03.jpg"
+    ],
+    "details": [
+      "/img/SecurityDoor04.jpg",
+      "/img/SecurityDoor05.jpg",
+      "/img/SecurityDoor06.jpg"
+    ]
+  },
+  {
+    "title": "防火门",
+    "mainImage": "/img/FireDoors00.jpg",
+    "options": [
+      "/img/FireDoors01.jpg",
+      "/img/FireDoors02.jpg",
+      "/img/FireDoors03.jpg"
+    ],
+    "details": [
+      "/img/FireDoors04.jpg",
+      "/img/FireDoors05.jpg",
+      "/img/FireDoors06.jpg",
+      "/img/FireDoors07.jpg"
+    ]
+  }
+]
